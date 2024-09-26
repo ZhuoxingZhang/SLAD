@@ -1,0 +1,82 @@
+preHandle Request
+get user id:* information
+get DatabaseCache data
+save article id:* data
+get articletype data
+query tags by qualification
+insert posts data
+insert tagposts data
+query all tags data
+query tag id:* data
+get editor
+query articletype data
+query articletype by scope and state
+delete post id:* data
+get posts data
+get page id:* information
+get article id:* information
+query posts data
+build posts information
+get configuration data
+get approval data
+query user id:* data
+get comment id:* data
+query comment by ids
+build page
+get post id:* data
+query posts by qualification
+get used tags
+set and expire database cache
+create approval
+save approval data
+insert user id:* follow data
+increase approval
+create comment
+save comment id:* data
+insert comment data
+increase comments
+get message id:* information
+marked posts id:* are read
+update message to read
+cancel follow
+delete user id:* follow data
+follow user id:*
+update user id:* information
+get user email:* data
+del database cache
+build articles
+get tag id:* index
+get tag by qualification
+add articletype
+save articletype data
+insert articletype data
+create tag
+save tag id:* data
+insert tag data
+query optionlog data
+get Index index
+query configuration data
+get faq id:* data
+add configuration data
+save configuration data
+insert configuration data
+build faqs
+audit post state
+admin processes article information
+update post id:* information
+change user account id:* status
+delete approval data
+update cache by key
+decrease approval data
+delete tagposts id:* data
+decrease tag ref count
+update article id:* information
+find comment by key
+update faq information
+save faq id:* data
+get interest index
+get page active
+login by user email id:*
+count unread message
+delete comment id:* data
+query message id:* information
