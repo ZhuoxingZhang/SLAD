@@ -3,7 +3,7 @@
 ![SLAD framework diagram](https://github.com/zzxhelloworld/SLAD/blob/main/Artifact/slad-framework.png)
 # Preliminaries: Getting ready for experiments
 > 1. Download the datasets: Forum & Halo & Novel
->> The datasets for our experiments are placed [here](https://drive.google.com/drive/folders/11blVvVF?usp=drive_link). The datasets are in a .rar format. Before conducting experiments,  please unzip the datasets and place them in the same directory with the source code.
+>> The datasets for our experiments are placed [here](https://drive.google.com/drive/folders/11blVvVF?usp=drive_link). The datasets are in a .rar format. Before conducting experiments, please unzip the datasets and place them in the same directory with the source code.
 > 2. Download other necessary files for experiments
 >> Please visit the directory <kbd>Artifact/necessary/</kbd> and download all of them. Please make sure to place them in the same directory with the source code.
 > 3. Software requirements
@@ -11,7 +11,7 @@
 # How to run code from the command line
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zzxhelloworld/SLAD.git
+   git clone https://github.com/ZhuoxingZhang/SLAD.git
    ```
 2. Navigate to the project directory:
    ```bash
